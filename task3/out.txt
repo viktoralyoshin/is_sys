@@ -11,3 +11,6 @@
 /mnt/f/os_sys/task3/2.txt
 /mnt/f/os_sys/task3/1.txt
 /mnt/f/os_sys/task3/2.txt
+/mnt/f/os_sys/task3/1.txt
+/mnt/f/os_sys/task3/2.txt
+F:\os_sys\task3\1.txt
